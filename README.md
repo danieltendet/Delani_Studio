@@ -3,14 +3,11 @@
 #### By **Daniel Naibei Tendet**
 ## Description
 Delani studio is an online platform where Clients get to see some of the work created by Software Developers and some of their designs too.
-To visit the website click on this link : 
+To visit the website click on this link : https://danieltendet.github.io/Delani_Studio/
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* To setup Delani Studio on your Console you can clone the repository from https://github.com/danieltendet/Delani_Studio.git or
+* Download the zip file from https://github.com/danieltendet/Delani_Studio/archive/refs/heads/main.zip
+* Once you have the files you can use visual studio code or your desired editing tool to code.
 ## Known Bugs
 So far, so good. I have not found any bugs or issues with the Application.
 ## Technologies Used
