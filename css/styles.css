@@ -22,3 +22,26 @@
         padding: 3cm;
         text-align: center;
     }
+
+.about{
+        text-align: center;
+        
+    }
+.content{
+        text-align: center;
+    }
+.abt{
+        padding: 1cm;
+    }
+
+.services{
+        background-image: url(assets/backgrounds/s_image.jpg);
+        text-align: center;
+        color: rgb(255, 255, 255);
+        padding: 50px;
+        background-size: cover;
+    }
+.what{
+        text-align: center;
+        padding: 20px;
+    }
