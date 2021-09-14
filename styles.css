@@ -2,7 +2,7 @@
     background-image: url(assets/backgrounds/h_img.jpg);
     background-blend-mode: lighten;
     background-size: cover;
-    width: 50%;
+ 
     }
 .logo{
     padding-top: 5cm;
@@ -110,4 +110,10 @@ input[type=text],input[type=email],#textarea{
     
 #product, #development, #design{
         display: none;
+    }
+
+.std{
+        text-align: center;
+        color: rgb(255, 255, 255);
+        
     }
