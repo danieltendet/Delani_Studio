@@ -30,3 +30,20 @@ $(document).ready(function(){
       $("#product-image").slideDown('1500');
     });
   });
+
+  $(document).ready(function(){
+    $("form#page").submit(function(event){
+      // event.preventDefault();
+      var name = $("input#INPUT1").val();
+      var email = $("input#INPUT2").val();
+      var message = $("textarea#comment").val();
+      if ($("input#INPUT1").val() && $("input#INPUT2").val()){
+        alert ("Thank you,  "+ name + ", we have received your message. Thank you for reaching out to us.");
+      }
+      else {
+        alert("Please enter your name and email!");
+      }
+      
+    });
+  
+  });
