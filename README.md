@@ -9,7 +9,7 @@ To visit the website click on this link : https://danieltendet.github.io/Delani_
 * Download the zip file from https://github.com/danieltendet/Delani_Studio/archive/refs/heads/main.zip
 * Once you have the files you can use visual studio code or your desired editing tool to code.
 ## Known Bugs
-So far, so good. I have not found any bugs or issues with the Application.
+could not load mailchimp form from the index file.
 ## Technologies Used
 * HTML
 * CSS
