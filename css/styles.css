@@ -2,7 +2,6 @@
     background-image: url(assets/backgrounds/h_img.jpg);
     background-blend-mode: lighten;
     background-size: cover;
-    
     width: 50%;
     }
 .logo{
@@ -44,4 +43,50 @@
 .what{
         text-align: center;
         padding: 20px;
+    }
+
+.row row-cols-4{
+        display: flex;
+        
+    }
+.column{
+        flex: auto;
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+        
+    }
+.column img {
+        margin-top: 8px;
+        vertical-align: middle;
+      }
+      
+    
+    
+.portifolio{
+        text-align: center;
+    }
+    
+.contact{
+        color: rgb(255, 255, 255);
+        text-align: center;
+        background-image: url(assets/backgrounds/c_image.jpg);
+        background-size: cover;
+        margin-top: 20px;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+.footer{
+        text-align: center;
+        padding-top: 30px;
+        font-family: 'Delius Swash Caps', cursive;
+    
+    }
+    
+.footer h4{
+        padding: 10px;
+    }
+.image-fluid{
+        max-width: 100%;
+        height: auto
     }
